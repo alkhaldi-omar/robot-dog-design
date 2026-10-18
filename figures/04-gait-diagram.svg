@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="direction:ltr;background:#fff;font-family:Segoe UI,Tahoma,Arial,sans-serif" width="440" height="290" viewBox="0 0 440 290" xmlns="http://www.w3.org/2000/svg">
+  <text x="230" y="18" font-size="13" font-weight="bold" text-anchor="middle">مشية الزحف (Crawl)</text>
+  <g font-size="12" font-weight="bold"><text x="30" y="43">LF</text><text x="30" y="68">RF</text><text x="30" y="93">LH</text><text x="30" y="118">RH</text></g>
+  <g fill="#ddd"><rect x="80" y="30" width="300" height="18"/><rect x="80" y="55" width="300" height="18"/><rect x="80" y="80" width="300" height="18"/><rect x="80" y="105" width="300" height="18"/></g>
+  <g fill="#9c1b3a"><rect x="155" y="30" width="75" height="18"/><rect x="305" y="55" width="75" height="18"/><rect x="80" y="80" width="75" height="18"/><rect x="230" y="105" width="75" height="18"/></g>
+  <g font-size="10" fill="#555"><text x="80" y="138">0%</text><text x="150" y="138">25%</text><text x="225" y="138">50%</text><text x="300" y="138">75%</text><text x="365" y="138">100%</text></g>
+  <text x="230" y="168" font-size="13" font-weight="bold" text-anchor="middle">مشية الهرولة (Trot)</text>
+  <g font-size="12" font-weight="bold"><text x="30" y="193">LF</text><text x="30" y="218">RF</text><text x="30" y="243">LH</text><text x="30" y="268">RH</text></g>
+  <g fill="#ddd"><rect x="80" y="180" width="300" height="18"/><rect x="80" y="205" width="300" height="18"/><rect x="80" y="230" width="300" height="18"/><rect x="80" y="255" width="300" height="18"/></g>
+  <g fill="#1b6f86"><rect x="80" y="180" width="150" height="18"/><rect x="230" y="205" width="150" height="18"/><rect x="230" y="230" width="150" height="18"/><rect x="80" y="255" width="150" height="18"/></g>
+</svg>
